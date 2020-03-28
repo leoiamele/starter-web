@@ -1,1 +1,0 @@
-Empezar con una carpeta nueva sin ningun codigo. Para eso haces git init folder-name. Esto crea una carpeta (dentro de la carpeta que estás parado y la inicia en git).
