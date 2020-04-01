@@ -15,4 +15,4 @@ Plese fork this repository and issue a pull request
 Deployment instruction should be here...
 
 ##Copyright
-Bla bla™ Copyright
+Bla bla™ Copyright Modificado Urgente
