@@ -8,7 +8,8 @@ The into goes here...
 The purpose goes here...
 Sample website with plenty of files for demos
 
-## How To Contribute 
+## How To Contribute
+Plese fork this repository and issue a pull request 
 
 ## Deployment
 Deployment instruction should be here...
