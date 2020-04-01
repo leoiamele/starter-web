@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Leandro Iamele leandro@pow.la  @leoiamele
 
 # THANKS
 
