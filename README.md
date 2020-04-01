@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Deployment instruction should be here...
+
+##Copyright
+Bla bla™ Copyright
