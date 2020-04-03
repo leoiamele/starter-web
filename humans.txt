@@ -13,4 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr, React,
-	AWS, GIT, gitHub, Solidity, Postgres, Kubernetes
+  	AWS, GIT, gitHub, Solidity, Postgres, Kubernetes,
+    and a ton of other things.
