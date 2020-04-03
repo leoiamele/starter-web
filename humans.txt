@@ -7,10 +7,10 @@
 
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr, React,
-	AWS, GIT
+	AWS, GIT, gitHub, Solidity
